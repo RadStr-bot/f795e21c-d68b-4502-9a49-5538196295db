@@ -1,0 +1,9 @@
+{
+  "a": "B",
+  "configuration": {
+    "http://dataspecer.com/resources/local/git-remote-configuration": {
+      "publicationBranch": "publication-branch",
+      "exportFormat": "json"
+    }
+  }
+}
